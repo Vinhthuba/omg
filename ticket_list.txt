@@ -1,0 +1,8 @@
+-DataSourceConfig: chỉ định đến data source trong file application.properties
+-securityConfig: liên quan đến các phần phân quyền
+-TicketController: chứa các phương thức tìm kiếm, lưu ........
+-loginController: trỏ đến các file html
+-TicketRepository:các phương thức tìm kiếm
+-Ticket: khai báo hàm set và get
+-TicketService: chứa các phương thức tìm kiếm , hàm get, lưu thông tin....
+-application.properties: chứa các phần liên quan đến jdbc, phần security của username và password, jpa repository
